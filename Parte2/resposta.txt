@@ -1,0 +1,90 @@
+Lista de documentos: 1/A_Canção_dos_tamanquinhos_Cecília_Meireles.pdf; 2/A_Centopeia_Marina_Colasanti.pdf; 3/A_porta_Vinicius_de_Moraes.pdf; 4/Ao_pé_de_sua_criança_Pablo_Neruda.pdf; 5/As_borboletas_Vinicius_de_Moraes.pdf; 6/Convite_José_Paulo_Paes.pdf; 7/Pontinho_de_Vista_Pedro_Bandeira.pdf
+
+------------------------------------------
+
+Indice invertido:
+
+aberto/1 -> 3/1
+alagado/1 -> 1/1
+alegre/1 -> 5/1
+amarelo/1 -> 5/2
+arminho/1 -> 1/1
+azul/1 -> 5/2
+batalha/1 -> 4/1
+bela/1 -> 5/1
+bem/1 -> 3/2
+bicho/1 -> 2/2
+bola/1 -> 6/2
+bonito/1 -> 5/1
+borboleta/2 -> 4/1, 5/3
+branco/1 -> 5/2
+cabeça/1 -> 2/1
+caminho/2 -> 1/1, 4/1
+capitão/1 -> 3/1
+casa/1 -> 3/1
+cego/1 -> 4/1
+centopeia/1 -> 2/1
+certeza/1 -> 7/1
+chão/1 -> 7/1
+condenado/1 -> 4/1
+cozinheiro/1 -> 3/1
+criança/1 -> 4/2
+cuidado/1 -> 3/1
+céu/1 -> 3/1
+derrotado/1 -> 4/1
+dia/1 -> 6/2
+duro/1 -> 4/1
+encerrado/1 -> 4/1
+escada/1 -> 4/1
+escuridão/1 -> 5/1
+feito/1 -> 3/1
+formiga/1 -> 7/1
+fraco/1 -> 5/1
+frente/1 -> 3/2
+fruta/1 -> 4/1
+grande/1 -> 7/1
+ideia/1 -> 2/1
+ligeiro/1 -> 1/2
+luz/2 -> 4/1, 5/2
+madeira/1 -> 3/2
+madrugada/1 -> 1/1
+maneira/1 -> 4/1
+matéria/1 -> 3/1
+maçã/1 -> 4/1
+menino/1 -> 3/1
+morto/1 -> 3/1
+mundo/3 -> 3/2, 4/1, 7/1
+namorado/1 -> 3/1
+novo/1 -> 6/3
+palavra/1 -> 6/2
+papagaio/1 -> 6/2
+par/1 -> 1/1
+pata/1 -> 2/1
+pedra/1 -> 4/1
+pequeno/1 -> 7/1
+pião/1 -> 6/2
+poesia/1 -> 6/2
+porta/2 -> 1/1, 3/1
+prazenteiro/1 -> 3/1
+preto/1 -> 5/2
+primeiro/1 -> 2/1
+prisioneiro/1 -> 4/1
+pé/2 -> 2/2, 4/5
+quartel/1 -> 3/1
+queixo/1 -> 7/1
+ramo/1 -> 4/1
+redondo/1 -> 4/1
+rio/1 -> 6/1
+rua/1 -> 4/1
+sapato/1 -> 4/1
+seda/1 -> 1/1
+silêncio/1 -> 1/1
+supetão/1 -> 3/1
+tamanco/1 -> 1/4
+terra/1 -> 4/1
+vida/1 -> 4/1
+vidro/1 -> 4/1
+vivo/1 -> 3/2
+vizinho/1 -> 1/1
+zangado/1 -> 7/1
+água/1 -> 6/2
